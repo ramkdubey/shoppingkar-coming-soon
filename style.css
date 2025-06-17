@@ -13,7 +13,7 @@ body {
 }
 
 footer {
-       position: absolute;
+      position: fixed;
     bottom: 0;
     width: 100%;
     text-align: center;
@@ -58,6 +58,9 @@ footer p{
     }
     .mobile-img {
         display: block;
+    }
+    .coming-soon{
+        height:100dvh;
     }
 
 }
